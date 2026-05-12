@@ -1,1 +1,1 @@
-# alguns-codigos
+alguns exemplos de codigos para melhorar conforme for melhorando nas aulas de progamação
